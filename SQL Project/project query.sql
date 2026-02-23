@@ -1,8 +1,3 @@
-
-
-
-
-
 CREATE TABLE starbucks_raw (
     Store_ID TEXT,
     City TEXT,
@@ -279,3 +274,4 @@ SELECT
     total_sales,
     RANK() OVER (ORDER BY total_sales DESC) AS performance_rank
 FROM manager_rank;
+
