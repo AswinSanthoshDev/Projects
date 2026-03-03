@@ -172,4 +172,3 @@ This project successfully transforms raw Nike sales data into a structured, insi
 
 ---
 
-## 📁 Repository Structure (Suggested)
