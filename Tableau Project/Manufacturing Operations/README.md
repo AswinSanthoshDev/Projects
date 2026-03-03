@@ -114,10 +114,5 @@ The dataset was cleaned, standardized, and normalized prior to dashboard develop
 - Resource efficiency varies across plants.
 
 ---
-
-## 🌐 Tableau Public Link
-[Insert Your Tableau Public Link Here]
-
 ---
 
-## 📁 Repository Structure
